@@ -144,7 +144,7 @@ sliceDocLib (Here is the Main Library)
 # Getting Started
 
 <br/>
-Our main focus on <a href="https://github.com/Akhil1998Joshi/PoC-API-s/tree/master/sliceDocLib">sliceDocLib</a> folder mention in the folder structure. <br/>
+Our main focus on <a href="https://github.com/Akhil1998Joshi/sliceboxx/tree/master/sliceDocLib">sliceDocLib</a> folder mention in the folder structure. <br/>
 <br/>
 To get started with we have created a frontend and backend to play with it. This example will help you to setting up your project locally.
 <br/>
@@ -220,7 +220,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Roadmap
 
-See the [open issues](https://github.com/Akhil1998Joshi/PoC-API-s/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Akhil1998Joshi/sliceboxx/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
