@@ -78,6 +78,17 @@ The project will be a library that can be plugged into a web app or an android a
 # Project Structure
 
 ```bash
+sliceDocLib (Here is the Main Library)
+   |-- data-sources
+   |   |-- digiMocker.js
+   |   |-- googleDrive.js
+   |   |-- linkSource.js
+   |-- index.js
+   |-- package-lock.json
+   |-- package.json
+   |-- storage-services
+   |   |-- awsS3.js
+   |
 Backend
    |-- app.js
    |-- controllers
@@ -125,16 +136,7 @@ Frontend
    |   |   |   |-- Home.js
    |   |   |   |-- style.css
    |
-sliceDocLib (Here is the Main Library)
-   |-- data-sources
-   |   |-- digiMocker.js
-   |   |-- googleDrive.js
-   |   |-- linkSource.js
-   |-- index.js
-   |-- package-lock.json
-   |-- package.json
-   |-- storage-services
-   |   |-- awsS3.js
+
 ```
 
 <br/>
